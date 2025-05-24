@@ -1,1 +1,2 @@
-Hello world
+45 X
+The value of x 45
