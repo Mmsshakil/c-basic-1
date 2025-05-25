@@ -12,6 +12,7 @@ int main()
     // print the ascii value of char c
     int ascii = c;
     cout << ascii << endl;
+    cout << int(c) << endl; // this is typecasting
 
     return 0;
 }
