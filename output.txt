@@ -1,1 +1,3 @@
-Invalid Number
+10
+20
+After swap 20 10
